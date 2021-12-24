@@ -4,7 +4,7 @@ parent:
 -->
 
 <div align="center">
-  <h1> Ethermint </h1>
+  <h1> Ethermint - comnics </h1>
 </div>
 
 ![banner](docs/ethermint.jpg)
